@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bar_items">
+        <item>Home</item>
+        <item>Friend</item>
+        <item>My</item>
+    </string-array>
+</resources>
