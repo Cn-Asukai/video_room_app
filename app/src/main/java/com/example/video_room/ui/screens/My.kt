@@ -1,4 +1,4 @@
-package com.example.video_room.ui.view
+package com.example.video_room.ui.screens
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
